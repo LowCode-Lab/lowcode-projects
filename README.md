@@ -10,5 +10,12 @@
     isOpenSource: true,
     repository: 'https://github.com/alibaba/lowcode-engine',
     license: 'MIT License'
+  },
+  {
+    name: '钉钉宜搭',
+    author: 'alibaba',
+    website: 'https://www.aliwork.com/',
+    isOpenSource: false
+  }
 ]
 ```
