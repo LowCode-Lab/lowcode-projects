@@ -25,7 +25,14 @@
     isOpenSource: true,
     repository: 'https://github.com/Tencent/tmagic-editor',
     license: 'Apache License Version 2.0'
-  }
+  },
+  {
+    name: 'amis',
+    author: 'baidu',
+    website: 'https://aisuda.bce.baidu.com/amis/',
+    isOpenSource: true,
+    repository: 'https://github.com/baidu/amis',
+    license: 'Apache License Version 2.0'
 ]
 ```
 
