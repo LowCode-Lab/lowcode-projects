@@ -21,7 +21,7 @@
   {
     name: 'TMagic',
     author: 'tencent',
-    website: https://tencent.github.io/tmagic-editor/playground/',
+    website: 'https://tencent.github.io/tmagic-editor/playground/',
     isOpenSource: true,
     repository: 'https://github.com/Tencent/tmagic-editor',
     license: 'Apache License Version 2.0'
